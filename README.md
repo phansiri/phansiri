@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Lit Phansiri</h1>
-<h2 align="center">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Lit Phansiri</h1>
+<h3 align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=phansiri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;"> -->
-  Fullstack Developer / Data Scientist
+  United States Marine Corps Officer / Fullstack Developer / Data Scientist
   <a href="https://phansiri.com">
     <img src="https://img.shields.io/badge/Phansiri-blue" alt="Portfolio" style="height:22px;">
   </a>
-</h2>
+</h3>
 
 
 <!--

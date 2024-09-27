@@ -1,6 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Lit Phansiri</h1>
 <h3 align="center">
-  Who am I:  <br/>
+  
+  ![Phansiri](https://komarev.com/ghpvc/?username=phansiri)
+  
+  🙂Who am I:  <br/>
   Captain (USMC)  <br/>
   DevSecOps <br/>
   Fullstack Data Scientist <br/> <br/>

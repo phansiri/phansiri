@@ -57,8 +57,8 @@ As a seasoned Marine Corps veteran and pioneering Cyberspace Warfare within the 
 
 ### <u> Other Technologies: </u>
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)&nbsp;
 
 
 

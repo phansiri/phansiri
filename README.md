@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Lit Phansiri</h1>
 <h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=phansiri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;"> <br/> <br/>
-  United States Marine Corps Officer <br/>
+  Who am I:  <br/>
+  Captain (USMC)  <br/>
   DevSecOps <br/>
   Fullstack Data Scientist <br/> <br/>
   <a href="https://phansiri.com">
@@ -29,6 +29,7 @@ As a seasoned Marine Corps veteran and pioneering Cyberspace Warfare within the 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 
 ### <u> Languages: </u>
   
@@ -52,13 +53,12 @@ As a seasoned Marine Corps veteran and pioneering Cyberspace Warfare within the 
 ### <u> Frontend Technologies: </u>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Nextjs](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
 ### <u> Other Technologies: </u>
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)&nbsp;
-
-
-
+![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)&nbsp;
+![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)&nbsp;

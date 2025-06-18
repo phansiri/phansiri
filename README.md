@@ -23,6 +23,7 @@ As a seasoned Marine Corps veteran and pioneering Cyberspace Warfare within the 
 * SANS OnDemand || SEC595: Applied Data Science & AI/ML for Cybersecurity Professionals || 2024 August
 * Naval Postgraduate School || Graduate Certificate in Cyber Security Fundamentals || 2020 December
 * University of Washington || Bachelors of Science in Informatics || 2017 March
+* University of Maryland University College || Undergraduate Certificate in Japanese Studies || 2009 July
 
 ## 🚀💻 Technologies & Tools
 

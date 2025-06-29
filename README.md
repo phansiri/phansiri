@@ -7,7 +7,7 @@
   Captain (USMC)  <br/>
   DevSecOps <br/>
   Fullstack Data Scientist: *Capabilities AI Developer* <br/> <br/>
-  <a href="https://phansiri.com">
+  <a href="https://phansiri.com" target="_blank">
     <img src="https://img.shields.io/badge/website-phansiri.com-gold" alt="Portfolio" style="height:22px;">
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/litthideth-phansiri-6b79b098/">

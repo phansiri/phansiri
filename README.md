@@ -6,7 +6,7 @@
   🙂Who am I:  <br/>
   Captain (USMC)  <br/>
   DevSecOps <br/>
-  Fullstack Data Scientist <br/> <br/>
+  Fullstack Data Scientist: *Capabilities AI Developer* <br/> <br/>
   <a href="https://phansiri.com">
     <img src="https://img.shields.io/badge/website-phansiri.com-gold" alt="Portfolio" style="height:22px;">
   </a>&nbsp;

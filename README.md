@@ -7,7 +7,7 @@
   Captain (USMC)  <br/>
   DevSecOps <br/>
   Marine / Cyberspace Warfare Officer / AI Engineer <br/> <br/>
-  <a href="https://phansiri.com" target="_blank">
+  <a href="https://phansiri.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/website-phansiri.com-gold" alt="Portfolio" style="height:22px;">
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/litthideth-phansiri-6b79b098/">

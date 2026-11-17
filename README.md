@@ -6,7 +6,7 @@
   🙂Who am I:  <br/>
   Captain (USMC)  <br/>
   DevSecOps <br/>
-  Fullstack Data Scientist: *Capabilities AI Developer* <br/> <br/>
+  Marine / Cyberspace Warfare Officer / AI Engineer <br/> <br/>
   <a href="https://phansiri.com" target="_blank">
     <img src="https://img.shields.io/badge/website-phansiri.com-gold" alt="Portfolio" style="height:22px;">
   </a>&nbsp;
@@ -15,7 +15,19 @@
   </a>
 </h3>
 
-As a seasoned Marine Corps veteran and pioneering Cyberspace Warfare within the Marine Corps, I leverage my expertise in data science and AI to drive transformative solutions that empower individuals, institutions, and society. With a strong foundation in informatics and cybersecurity, I excel at assembling and leading high-performing teams that tackle complex challenges with innovative, technology-driven approaches. As a hands-on leader with a deep understanding of cutting-edge technologies, I bridge the gap between technical expertise and strategic vision, driving impactful results that make a difference. With my sights set on launching my own AI startup after retiring from the Marine Corps, I'm poised to bring my unique blend of military leadership, technical expertise, and entrepreneurial spirit to the forefront of the AI industry.
+
+
+I’m a 23+ year Marine Corps veteran who helped pioneer Cyberspace Warfare within the Corps. I now build data science and AI systems for high-stakes environments, and I’ll be retiring in December 2027 to build them full-time.
+
+## What I’m working on
+
+Cybersecurity agentic application: a vendor-agnostic, LLM-flexible system that cuts the analytical effort of correlating data based off artifacts. It’s built on LangChain Deep Agents, with a sandbox execution via NVIDIA OpenShell.
+
+Agentic research tooling: long-horizon analysis over large document collections.
+
+## What’s next
+
+After I retire, I’m starting a company that builds hyper-specialized tools for warfighters, so they can focus on the mission instead of managing their time during analysis.
 
 ## 🎓 Education
 
